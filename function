@@ -1,0 +1,6 @@
+function thisIsAFunction(greeting){
+let name = 'Damany';
+
+
+console.log(`Hi ${name} how Are you`);
+}
